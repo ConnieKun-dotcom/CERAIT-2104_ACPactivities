@@ -1,5 +1,5 @@
 # PaySphere Pro Payroll Management System
-![love](C:\Users\Connie\OneDrive - Real LIFE Foundation, Inc\Desktop\Final Project/PaySphere_Pro.png)
+![love](Final Project/PaySphere_Pro.png)
 
 ## Table of Contents
 * [I. Project Overview](#i-project-overview)
