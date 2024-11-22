@@ -133,6 +133,7 @@ To run the Payroll Management System, follow these steps:
      python PaySphere-Pro.py 
    * If you're using a different filename, replace PaySphere-Pro.py with the appropriate filename.
    * Make sure to enter the required information as prompted.
+     
 **5. Interact with the Console:**
    * Follow the on-screen prompts to manage employees, create payslips, and generate payroll reports.
 
