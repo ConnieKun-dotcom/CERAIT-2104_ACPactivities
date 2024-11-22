@@ -97,22 +97,22 @@ To run the Payroll Management System, follow these steps:
 **2. Clone the Repository:**
    * Open your terminal or command prompt.
    * Clone the repository to your local machine using the following command:
-     * ```bash
+      ```bash
        git clone <repository-url>
-       ```
+       
    * Replace ```<repository-url>``` with the actual URL of the repository-[https://github.com/ConnieKun-dotcom/CERAIT-2104_ACPactivities/tree/main/CERAIT-2104_ACPactivities/Final%20Project]
        
 **3. Navigate to the Project Directory:**
    * Open your terminal or command prompt and navigate to the project directory.
    * Change your directory to the project folder:
      ```bash
-     cd <project-directory>```
+     cd <project-directory>
    * Replace <project-directory> with the name of the cloned repository folder.
     
 **4. Run the Program:**
    * Execute the program using Python:
      ```bash
-     python PaySphere-Pro.py ```
+     python PaySphere-Pro.py 
    * If you're using a different filename, replace PaySphere-Pro.py with the appropriate filename.
    * Make sure to enter the required information as prompted.
 **5. Interact with the Console:**
