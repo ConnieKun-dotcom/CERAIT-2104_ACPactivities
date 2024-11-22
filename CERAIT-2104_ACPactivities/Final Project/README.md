@@ -32,9 +32,11 @@ a motivated workforce, contributing to sustainable economic growth.
 </div>
 
 * **Employee Management:**
+  
   <div align="center">
     <img src="https://github.com/user-attachments/assets/be8af8f6-cca6-46ef-beb2-d104d6e69ab1" alt="Alt text" />
 </div>
+
   * Employee registration with different types (Full-time, Part-time, Contract, Intern)
   * Unique ID generation system (Department-Type-Number format)
   * View all employees
@@ -43,6 +45,7 @@ a motivated workforce, contributing to sustainable economic growth.
   * Comprehensive data validation for all employee field
 
 * **Payslip Management:**
+  
   <div align="center">
     <img src="https://github.com/user-attachments/assets/6414918d-adf4-4b59-a37e-6c1e58ff3336" alt="Alt text"/>
 </div>
@@ -54,9 +57,11 @@ a motivated workforce, contributing to sustainable economic growth.
   * Net pay calculation
   * Payslip storage and retrieval
 * **Payroll Reports:**
+  
   <div align="center">
     <img src="https://github.com/user-attachments/assets/29b81c81-ba18-4c38-9917-c2253f4320b7" alt="Alt text"/>
 </div>
+
   * Calculate basic salary based on hours worked
   * Overtime calculation with different rates per employee type
   * Additional earnings (incentives, bonuses)
