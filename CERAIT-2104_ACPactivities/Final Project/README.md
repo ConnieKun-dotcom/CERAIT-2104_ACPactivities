@@ -92,22 +92,29 @@ This project utilizes various Python concepts and libraries to achieve its funct
 
 ### IV. Instructions for Running the Program
 To run the Payroll Management System, follow these steps:
-1. Prerequisites:
+**1. Prerequisites:**
    * Ensure you have Python 3.x installed on your machine. You can download it from python.org.
-2. Clone the Repository:
+**2. Clone the Repository:**
    * Open your terminal or command prompt.
    * Clone the repository to your local machine using the following command:
      * ```bash
        git clone <repository-url>
        ```
-   * Replace ```<repository-url>``` with the actual URL of the repository-
+   * Replace ```<repository-url>``` with the actual URL of the repository-[https://github.com/ConnieKun-dotcom/CERAIT-2104_ACPactivities/tree/main/CERAIT-2104_ACPactivities/Final%20Project]
        
-4. Navigate to the Project Directory: cd <project-directory>
-   * Open your terminal or command prompt and navigate to the project directory:
-5. Run the Program:
-   * Execute the program using Python: 
-   * If you're using a different filename, replace payroll_system.py with the appropriate filename.
-6. Interact with the Console:
+**3. Navigate to the Project Directory:**
+   * Open your terminal or command prompt and navigate to the project directory.
+   * Change your directory to the project folder:
+     ```cd <project-directory>```
+   * Replace <project-directory> with the name of the cloned repository folder.
+    
+**4. Run the Program:**
+   * Execute the program using Python:
+     ```bash
+     python PaySphere-Pro.py```
+   * If you're using a different filename, replace PaySphere-Pro.py with the appropriate filename.
+   * Make sure to enter the required information as prompted.
+**5. Interact with the Console:**
    * Follow the on-screen prompts to manage employees, create payslips, and generate payroll reports.
 
 ### Conclusion
@@ -116,8 +123,7 @@ processing and employee management. By leveraging Python's powerful features and
 development goals, this project serves as a valuable resource for organizations aiming to improve their
 HR practices.
 
-```hdfnsjdvhgvhhknk
-```
+
 
 
 
