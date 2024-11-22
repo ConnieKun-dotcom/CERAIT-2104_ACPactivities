@@ -28,7 +28,7 @@ a motivated workforce, contributing to sustainable economic growth.
 
 ### Key Features:
 <div align="center">
-    <img src="" />
+    <img src="https://github.com/user-attachments/assets/f2c688ce-32bf-45eb-9e6b-5c687385253a" alt="Alt text"/>
 </div>
 
 * **Employee Management:**
@@ -39,6 +39,9 @@ a motivated workforce, contributing to sustainable economic growth.
   * Update employee information
   * Delete employee records
   * Comprehensive data validation for all employee fields
+<div align="center">
+    <img src="" alt="Alt text"/>
+</div>
 * **Payslip Management:** 
   * Detailed payslip creation
   * Employee information display
