@@ -111,8 +111,10 @@ This project utilizes various Python concepts and libraries to achieve its funct
 
 ### IV. Instructions for Running the Program
 To run the Payroll Management System, follow these steps:
+
 **1. Prerequisites:**
    * Ensure you have Python 3.x installed on your machine. You can download it from python.org.
+     
 **2. Clone the Repository:**
    * Open your terminal or command prompt.
    * Clone the repository to your local machine using the following command:
