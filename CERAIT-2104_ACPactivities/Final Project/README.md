@@ -27,25 +27,48 @@ receive fair compensation for their work.
 a motivated workforce, contributing to sustainable economic growth.
 
 ### Key Features:
-* Employee Registration: Allows the addition of new employees with unique IDs and personal details.
-* Employee Management: View, update, and delete employee records.
-* Payslip Generation: Create and view payslips for employees based on hours worked, overtime, and 
-  other earnings.
-* Payroll Reports: Generate comprehensive payroll reports summarizing employee earnings and deductions.
 
+* **Employee Management:** 
+  * Employee registration with different types (Full-time, Part-time, Contract, Intern)
+  * Unique ID generation system (Department-Type-Number format)
+  * View all employees
+  * Update employee information
+  * Delete employee records
+  * Comprehensive data validation for all employee fields
+* **Payslip Management:** 
+  * Detailed payslip creation
+  * Employee information display
+  * Earnings breakdown
+  * Deductions breakdown
+  * Net pay calculation
+  * Payslip storage and retrieval
+* **Payroll Reports:**
+  * Calculate basic salary based on hours worked
+  * Overtime calculation with different rates per employee type
+  * Additional earnings (incentives, bonuses)
+  * Mandatory deductions:
+    * *SSS* (4.5% of base salary)
+    * *PhilHealth* (2.25% of base salary)
+    * *Pag-IBIG* (2% of base salary)
+  * Salary advance deductions
+  * Net pay calculation
 
 ## II. Application of Python Concepts and Libraries
 This project utilizes various Python concepts and libraries to achieve its functionality:
-* Classes and Objects: The program employs Object-Oriented Programming (OOP) principles by defining 
+* **Classes and Objects:** The program employs Object-Oriented Programming (OOP) principles by defining 
   classes such as Employee, PayrollSystem, and Colors. Each class encapsulates specific attributes and
   methods relevant to its purpose.
-* Regular Expressions: The re library is used for input validation, ensuring that user inputs for names, 
+* **Encapsulation:**
+  * Private attributes in Employee class (using double underscores like
+    ```__emp_id, __name)
+    ```
+* **Regular Expressions:** The re library is used for input validation, ensuring that user inputs for names, 
   emails, phone numbers, and dates conform to specified formats.
-* Error Handling: The program includes error handling mechanisms to manage invalid user inputs gracefully,
+* **Error Handling:** The program includes error handling mechanisms to manage invalid user inputs gracefully,
   prompting users to re-enter data when necessary.
-* File System Interaction: The os library is used to retrieve terminal size for better text formatting and
+* **File System Interaction:** The os library is used to retrieve terminal size for better text formatting and
   centering output on the console.
-* Data Structures: The program uses dictionaries to store employee and payslip details, allowing for
+* **Data Structures:** The program uses dictionaries to store employee and payslip details, allowing for
   efficient data retrieval and management.
 
 ## III. Sustainable Development Goal (SDG)
