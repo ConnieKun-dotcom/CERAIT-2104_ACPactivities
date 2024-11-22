@@ -4,10 +4,10 @@
 * [I. Project Overview](#i-project-overview)
    *Integration into the project
    *Key Features
-* [II. Application of Python Concepts and Libraries](ii-application-of-python-concepts-and-libraries)
-* [III. Sustainable Development Goal (SDG)](iii-sustainable-development-goal-(sdg))
-* [IV. Instructions for Running the Program](iv-instructions-for-running-the-program)
-* [Conclusion](conclusion)
+* [II. Application of Python Concepts and Libraries](#ii-application-of-python-concepts-and-libraries)
+* [III. Sustainable Development Goal (SDG)](#iii-sustainable-development-goal-(sdg))
+* [IV. Instructions for Running the Program](#iv-instructions-for-running-the-program)
+* [Conclusion](#conclusion)
   
 
 ## I. Project Overview
