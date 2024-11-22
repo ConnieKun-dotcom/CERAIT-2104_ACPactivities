@@ -1,5 +1,5 @@
 # PaySphere Pro Payroll Management System
-![love](https://ibb.co/0yxJrMR)/PaySphere_Pro.png)
+![love](https://ibb.co/0yxJrMR/PaySphere_Pro.png)
 
 ## Table of Contents
 * [I. Project Overview](#i-project-overview)
