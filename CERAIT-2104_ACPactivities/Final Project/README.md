@@ -1,5 +1,9 @@
 # PaySphere Pro Payroll Management System
-![PaySphere_Pro](https://github.com/user-attachments/assets/6ea9b47b-ce01-4335-ac68-0ab23c9262cc)
+<div align="center">
+    <img src="[URL_or_path_to_image](https://github.com/user-attachments/assets/6ea9b47b-ce01-4335-ac68-0ab23c9262cc)" alt="Alt text" />
+</div>
+
+
 
 
 ## Table of Contents
