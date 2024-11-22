@@ -60,14 +60,26 @@ This project utilizes various Python concepts and libraries to achieve its funct
   methods relevant to its purpose.
 * **Encapsulation:**
   * Private attributes in Employee class (using double underscores like
-    ```__emp_id, __name ```
-    
+    ```__emp_id, __name ```)
+  * Getter methods to access private data (like
+   ```get_emp_id(), get_name()```)
+  * Protected data from direct external access while providing controlled access through methods
+* **Inheritance:**
+  * Base
+    ```Employee ``` class inherited by specialized employee types
+  * ```FullTimeEmployee, PartTimeEmployee, ContractEmployee,``` and InternEmployee all inherit from ```Employee```
+  * Common attributes and methods shared through parent class while allowing specific implementations in child classes
+* **Abstraction:**
+  * Abstract base class ```Employee``` (using ABC module)
+  * Abstract method ```calculate_salary()``` defined in base class
+  * Hides complex implementation details while providing simple interface for salary calculations
+* **Polymorphism:**
+  * Different implementations of ```calculate_salary()``` in each employee type
+  * System treats all employee types uniformly while executing type-specific calculations
 * **Regular Expressions:** The re library is used for input validation, ensuring that user inputs for names, 
   emails, phone numbers, and dates conform to specified formats.
 * **Error Handling:** The program includes error handling mechanisms to manage invalid user inputs gracefully,
   prompting users to re-enter data when necessary.
-* **File System Interaction:** The os library is used to retrieve terminal size for better text formatting and
-  centering output on the console.
 * **Data Structures:** The program uses dictionaries to store employee and payslip details, allowing for
   efficient data retrieval and management.
 
