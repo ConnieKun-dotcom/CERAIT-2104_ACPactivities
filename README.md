@@ -1,5 +1,5 @@
 # PaySphere Pro Management System
-![Simplifying Payroll, Empowering peolple](C:\Users\Connie\Downloads/PaySphere_Pro.png)
+![love](C:\Users\Connie\Downloads/PaySphere_Pro.png)
 
 ## Table of Contents
 * [I. Project Overview](#i-project-overview)
