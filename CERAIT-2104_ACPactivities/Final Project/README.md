@@ -27,8 +27,12 @@ receive fair compensation for their work.
 a motivated workforce, contributing to sustainable economic growth.
 
 ### Key Features:
+<div align="center">
+    <img src="" />
+</div>
 
-* **Employee Management:** 
+* **Employee Management:**
+  
   * Employee registration with different types (Full-time, Part-time, Contract, Intern)
   * Unique ID generation system (Department-Type-Number format)
   * View all employees
@@ -99,7 +103,6 @@ To run the Payroll Management System, follow these steps:
    * Clone the repository to your local machine using the following command:
       ```bash
        git clone <repository-url>
-       
    * Replace ```<repository-url>``` with the actual URL of the repository-[https://github.com/ConnieKun-dotcom/CERAIT-2104_ACPactivities/tree/main/CERAIT-2104_ACPactivities/Final%20Project]
        
 **3. Navigate to the Project Directory:**
