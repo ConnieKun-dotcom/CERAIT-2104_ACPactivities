@@ -1,5 +1,5 @@
 # PaySphere Pro Management System
-![love](C:\Users\Connie\Downloads/PaySphere_Pro.png)
+![love](Downloads/PaySphere_Pro.png)
 
 ## Table of Contents
 * [I. Project Overview](#i-project-overview)
