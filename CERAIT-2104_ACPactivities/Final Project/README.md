@@ -28,21 +28,25 @@ a motivated workforce, contributing to sustainable economic growth.
 
 ### Key Features:
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/f2c688ce-32bf-45eb-9e6b-5c687385253a" alt="Alt text"/>
+    <img src="https://github.com/user-attachments/assets/26c1be97-dcb1-4b4d-abad-ed2e99d57cc0" alt="Alt text" />
 </div>
 
 * **Employee Management:**
-  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/be8af8f6-cca6-46ef-beb2-d104d6e69ab1" alt="Alt text" />
+</div>
   * Employee registration with different types (Full-time, Part-time, Contract, Intern)
   * Unique ID generation system (Department-Type-Number format)
   * View all employees
   * Update employee information
   * Delete employee records
-  * Comprehensive data validation for all employee fields
-<div align="center">
-    <img src="" alt="Alt text"/>
+  * Comprehensive data validation for all employee field
+
+* **Payslip Management:**
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/6414918d-adf4-4b59-a37e-6c1e58ff3336" alt="Alt text"/>
 </div>
-* **Payslip Management:** 
+
   * Detailed payslip creation
   * Employee information display
   * Earnings breakdown
@@ -50,6 +54,9 @@ a motivated workforce, contributing to sustainable economic growth.
   * Net pay calculation
   * Payslip storage and retrieval
 * **Payroll Reports:**
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/29b81c81-ba18-4c38-9917-c2253f4320b7" alt="Alt text"/>
+</div>
   * Calculate basic salary based on hours worked
   * Overtime calculation with different rates per employee type
   * Additional earnings (incentives, bonuses)
