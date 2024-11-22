@@ -94,14 +94,20 @@ This project utilizes various Python concepts and libraries to achieve its funct
 To run the Payroll Management System, follow these steps:
 1. Prerequisites:
    * Ensure you have Python 3.x installed on your machine. You can download it from python.org.
-2. Clone the Repository: git clone <repository-url>
+2. Clone the Repository:
+   * Open your terminal or command prompt.
    * Clone the repository to your local machine using the following command:
-3. Navigate to the Project Directory: cd <project-directory>
+     * ```bash
+       git clone <repository-url>
+       ```
+   * Replace ```<repository-url>``` with the actual URL of the repository-
+       
+4. Navigate to the Project Directory: cd <project-directory>
    * Open your terminal or command prompt and navigate to the project directory:
-4. Run the Program:
+5. Run the Program:
    * Execute the program using Python: 
    * If you're using a different filename, replace payroll_system.py with the appropriate filename.
-5. Interact with the Console:
+6. Interact with the Console:
    * Follow the on-screen prompts to manage employees, create payslips, and generate payroll reports.
 
 ### Conclusion
