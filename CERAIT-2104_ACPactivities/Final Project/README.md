@@ -60,8 +60,8 @@ This project utilizes various Python concepts and libraries to achieve its funct
   methods relevant to its purpose.
 * **Encapsulation:**
   * Private attributes in Employee class (using double underscores like
-    ```__emp_id, __name)
-    ```
+    ```__emp_id, __name ```
+    
 * **Regular Expressions:** The re library is used for input validation, ensuring that user inputs for names, 
   emails, phone numbers, and dates conform to specified formats.
 * **Error Handling:** The program includes error handling mechanisms to manage invalid user inputs gracefully,
