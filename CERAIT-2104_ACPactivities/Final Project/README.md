@@ -1,6 +1,6 @@
 # PaySphere Pro Payroll Management System
 <div align="center">
-    <img src="" alt="Alt text" />
+    <img src="https://github.com/user-attachments/assets/b08ab016-4408-4a7a-8d0d-f4d23e3a699c" alt="Alt text" />
 </div>
 
 
