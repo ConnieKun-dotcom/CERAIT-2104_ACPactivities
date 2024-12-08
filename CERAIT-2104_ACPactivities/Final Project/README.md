@@ -75,6 +75,41 @@ a motivated workforce, contributing to sustainable economic growth.
 ## II. Application of Python Concepts and Libraries
 This project utilizes various Python concepts and libraries to achieve its functionality. These principles work together to create a maintainable, scalable, and well-organized payroll system with clear separation of concerns and reusable code components.
 
+* **MAJOR FUNCTIONALITIES AND FEATURES**
+* **Employee Management System**
+  ```bash
+  ~~~~~~~~~~~~~~~~~~~~~
+     Manage Employee
+  ~~~~~~~~~~~~~~~~~~~~~
+  1. Register Employee
+  2. View Employee
+  3. Update Employee
+  4. Delete Employee
+  5. Exit to main Menu
+     Choose an option:
+  ```
+  * Employee Registration with different types (Full-time, Part-time, Contract, Intern)
+  * View all employees
+  * Update employee information
+  * Delete employee records
+  * Validation for all employee data fields
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * **Classes and Objects:** The program employs Object-Oriented Programming (OOP) principles by defining 
   classes such as Employee, PayrollSystem, and Colors. Each class encapsulates specific attributes and
   methods relevant to its purpose.
