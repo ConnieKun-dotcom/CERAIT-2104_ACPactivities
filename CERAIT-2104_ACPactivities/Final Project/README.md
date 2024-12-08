@@ -64,7 +64,7 @@ This project utilizes various Python concepts and libraries to achieve its funct
   * Detailed payslip creation
   * View individual payslips
   * Payroll history tracking
-  *  * Additional earnings (incentives, bonuses)
+  * Additional earnings (incentives, bonuses)
   * Mandatory deductions:
      * *SSS* (4.5% of base salary)
      * *PhilHealth* (2.25% of base salary)
