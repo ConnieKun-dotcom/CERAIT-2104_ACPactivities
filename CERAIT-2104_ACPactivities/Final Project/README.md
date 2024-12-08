@@ -77,23 +77,33 @@ This project utilizes various Python concepts and libraries to achieve its funct
 
 * **MAJOR FUNCTIONALITIES AND FEATURES**
 * **Employee Management System**
-  ```bash
-  ~~~~~~~~~~~~~~~~~~~~~
-     Manage Employee
-  ~~~~~~~~~~~~~~~~~~~~~
-  1. Register Employee
-  2. View Employee
-  3. Update Employee
-  4. Delete Employee
-  5. Exit to main Menu
-     Choose an option:
-  ```
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/be8af8f6-cca6-46ef-beb2-d104d6e69ab1" 
+    alt="Alt text" />
+    </div>
+    
   * Employee Registration with different types (Full-time, Part-time, Contract, Intern)
   * View all employees
   * Update employee information
   * Delete employee records
   * Validation for all employee data fields
 
+* **Payroll Processing**
+   <div align="center">
+    <img src="![Screenshot 2024-12-04 194102](https://github.com/user- 
+    attachments/assets/86bb25a7-6264-450e-853c-5804a789a375)" />
+    </div>
+
+   * Different salary calculation methods for each employee type
+   * Department-based hourly rates
+   * Overtime pay calculation
+   * Regular hours and overtime hours tracking
+
+* **Payslip Generation**
+   <div align="center">
+    <img src="![Screenshot 2024-12-04 194102](https://github.com/user- 
+    attachments/assets/86bb25a7-6264-450e-853c-5804a789a375)" />
+    </div>
 
 
 
