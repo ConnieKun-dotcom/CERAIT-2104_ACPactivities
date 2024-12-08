@@ -57,8 +57,7 @@ This project utilizes various Python concepts and libraries to achieve its funct
    
 * **Payslip Generation**
    <div align="center">
-    <img src="https://github.com/user- 
-     attachments/assets/8cb67d63-314a-4bfd-9732-6b5a421da228" 
+    <img src="https://github.com/user-attachments/assets/8cb67d63-314a-4bfd-9732-6b5a421da228" 
      alt="Alt text" />
     </div>
 
