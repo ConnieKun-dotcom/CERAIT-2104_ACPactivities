@@ -107,7 +107,7 @@ This project utilizes various Python concepts and libraries to achieve its funct
   to accurately track employee contributions, ensure timely payments, and maintain transparent records,
   ultimately contributing to economic growth and decent work conditions.
 
-### IV. Instructions for Running the Program
+## IV. Instructions for Running the Program
 To run the Payroll Management System, follow these steps:
 
 **1. Prerequisites:**
