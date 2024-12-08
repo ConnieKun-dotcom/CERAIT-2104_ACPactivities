@@ -4,8 +4,6 @@
 </div>
 
 
-
-
 ## Table of Contents
 * [I. Project Overview](#i-project-overview)
 * [II. Application of Python Concepts and Libraries](#ii-application-of-python-concepts-and-libraries)
@@ -26,51 +24,9 @@ receive fair compensation for their work.
 * By facilitating better management of employee records and payments, it helps organizations maintain
 a motivated workforce, contributing to sustainable economic growth.
 
-### Key Features:
 <div align="center">
     <img src="https://github.com/user-attachments/assets/26c1be97-dcb1-4b4d-abad-ed2e99d57cc0" alt="Alt text" />
 </div>
-
-* **Employee Management:**
-  
-  <div align="center">
-    <img src="https://github.com/user-attachments/assets/be8af8f6-cca6-46ef-beb2-d104d6e69ab1" alt="Alt text" />
-</div>
-
-  * Employee registration with different types (Full-time, Part-time, Contract, Intern)
-  * Unique ID generation system (Department-Type-Number format)
-  * View all employees
-  * Update employee information
-  * Delete employee records
-  * Comprehensive data validation for all employee field
-
-* **Payslip Management:**
-  
-  <div align="center">
-    <img src="https://github.com/user-attachments/assets/6414918d-adf4-4b59-a37e-6c1e58ff3336" alt="Alt text"/>
-</div>
-
-  * Detailed payslip creation
-  * Employee information display
-  * Earnings breakdown
-  * Deductions breakdown
-  * Net pay calculation
-  * Payslip storage and retrieval
-* **Payroll Reports:**
-  
-  <div align="center">
-    <img src="https://github.com/user-attachments/assets/29b81c81-ba18-4c38-9917-c2253f4320b7" alt="Alt text"/>
-</div>
-
-  * Calculate basic salary based on hours worked
-  * Overtime calculation with different rates per employee type
-  * Additional earnings (incentives, bonuses)
-  * Mandatory deductions:
-    * *SSS* (4.5% of base salary)
-    * *PhilHealth* (2.25% of base salary)
-    * *Pag-IBIG* (2% of base salary)
-  * Salary advance deductions
-  * Net pay calculation
 
 ## II. Application of Python Concepts and Libraries
 This project utilizes various Python concepts and libraries to achieve its functionality. These principles work together to create a maintainable, scalable, and well-organized payroll system with clear separation of concerns and reusable code components.
@@ -98,28 +54,25 @@ This project utilizes various Python concepts and libraries to achieve its funct
    * Department-based hourly rates
    * Overtime pay calculation
    * Regular hours and overtime hours tracking
-
+   
 * **Payslip Generation**
    <div align="center">
-    <img src="![Screenshot 2024-12-04 194102](https://github.com/user- 
-    attachments/assets/86bb25a7-6264-450e-853c-5804a789a375)" />
+    <img src="![Screenshot 2024-12-08 102054](https://github.com/user- 
+     attachments/assets/8cb67d63-314a-4bfd-9732-6b5a421da228)" />
     </div>
 
+  * Detailed payslip creation
+  * View individual payslips
+  * Payroll history tracking
+  *  * Additional earnings (incentives, bonuses)
+  * Mandatory deductions:
+     * *SSS* (4.5% of base salary)
+     * *PhilHealth* (2.25% of base salary)
+     * *Pag-IBIG* (2% of base salary)
+     * Salary advance deductions
+   * Net pay calculation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* **PYTHON CONCEPTS AND FEATURES**
 * **Classes and Objects:** The program employs Object-Oriented Programming (OOP) principles by defining 
   classes such as Employee, PayrollSystem, and Colors. Each class encapsulates specific attributes and
   methods relevant to its purpose.
