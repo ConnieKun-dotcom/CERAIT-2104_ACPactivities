@@ -72,7 +72,7 @@ This project utilizes various Python concepts and libraries to achieve its funct
      * Salary advance deductions
    * Net pay calculation
 
-* **PYTHON CONCEPTS AND FEATURES**
+**PYTHON CONCEPTS AND FEATURES**
 * **Classes and Objects:** The program employs Object-Oriented Programming (OOP) principles by defining 
   classes such as Employee, PayrollSystem, and Colors. Each class encapsulates specific attributes and
   methods relevant to its purpose.
