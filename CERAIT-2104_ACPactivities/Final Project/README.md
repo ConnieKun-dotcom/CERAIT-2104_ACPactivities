@@ -103,6 +103,9 @@ This project utilizes various Python concepts and libraries to achieve its funct
   efficient data retrieval and management.
 
 ## III. Sustainable Development Goal (SDG)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3985164e-f996-42c3-9268-5a43b937e08c" alt="Alt text" />
+</div>
   This project aligns with SDG 8: Decent Work and Economic Growth. By providing a tool that simplifies 
   payroll management, the system promotes fair and efficient work practices. It enables organizations 
   to accurately track employee contributions, ensure timely payments, and maintain transparent records,
