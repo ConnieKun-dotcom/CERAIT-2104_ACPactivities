@@ -31,7 +31,7 @@ a motivated workforce, contributing to sustainable economic growth.
 ## II. Application of Python Concepts and Libraries
 This project utilizes various Python concepts and libraries to achieve its functionality. These principles work together to create a maintainable, scalable, and well-organized payroll system with clear separation of concerns and reusable code components.
 
-* **MAJOR FUNCTIONALITIES AND FEATURES**
+ **MAJOR FUNCTIONALITIES AND FEATURES**
 * **Employee Management System**
   <div align="center">
     <img src="https://github.com/user-attachments/assets/be8af8f6-cca6-46ef-beb2-d104d6e69ab1" 
@@ -46,8 +46,8 @@ This project utilizes various Python concepts and libraries to achieve its funct
 
 * **Payroll Processing**
    <div align="center">
-    <img src="![Screenshot 2024-12-04 194102](https://github.com/user- 
-    attachments/assets/86bb25a7-6264-450e-853c-5804a789a375)" />
+    <img src="https://github.com/user- 
+    attachments/assets/86bb25a7-6264-450e-853c-5804a789a375" />
     </div>
 
    * Different salary calculation methods for each employee type
