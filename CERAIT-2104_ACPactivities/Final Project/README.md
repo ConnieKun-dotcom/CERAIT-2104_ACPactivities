@@ -46,8 +46,8 @@ This project utilizes various Python concepts and libraries to achieve its funct
 
 * **Payroll Processing**
    <div align="center">
-    <img src="https://github.com/user- 
-    attachments/assets/86bb25a7-6264-450e-853c-5804a789a375" />
+    <img src="https://github.com/user-attachments/assets/86bb25a7-6264-450e-853c-5804a789a375" 
+    alt="Alt text" />
     </div>
 
    * Different salary calculation methods for each employee type
